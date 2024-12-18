@@ -41,6 +41,14 @@
 
 ---
 
+<!-- Main Projects Section -->
+### 🚀 Main Projects
+
+- [**Elon And Martians**](https://github.com/angpolito/ElonAndMartians.git) - Elon And Martians is a team project in Java developed for the course *Metodi avanzati di programmazione* (*Advanced Programming Methods*) during my 2nd year of the BSc program in *Computer Science*.
+- [**Carsharing**](https://github.com/angpolito/Carsharing) - Carsharing is a personal project in C developed for the course *Laboratorio di Informatica* (*Computer Laboratory*) during my 1st year of the BSc program in *Computer Science*.
+
+---
+
 <!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
 
@@ -48,14 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=angpolito&show_icons=true&theme=highcontrast&count_private=true&hide=stars" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angpolito&layout=compact&theme=highcontrast" alt="Top Languages" width="42.5%"/>
 </p>
-
----
-
-<!-- Main Projects Section -->
-### 🚀 Main Projects
-
-- [**Elon And Martians**](https://github.com/angpolito/ElonAndMartians.git) - Elon And Martians is a team project in Java developed for the course *Metodi avanzati di programmazione* (*Advanced Programming Methods*) during my 2nd year of the BSc program in *Computer Science*.
-- [**Carsharing**](https://github.com/angpolito/Carsharing) - Carsharing is a personal project in C developed for the course *Laboratorio di Informatica* (*Computer Laboratory*) during my 1st year of the BSc program in *Computer Science*.
 
 ---
 
