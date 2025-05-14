@@ -18,7 +18,7 @@
 ### 🔎 About Me
 
 - 🎓 **L-31 Student** at University of Bari Aldo Moro.
-- 🌱 Currently **learning** Python and exploring IR Models, RecSys and LLM.
+- 🌱 Currently **learning** Python and writing my thesis on RecSys and LLM.
 - 🎯 Always searching for **new adventures**: I've been a team leader in various university projects.
 - ⚡ In my **free time**, I love coding, reading tech articles, exploring dystopian literature and playing my guitar.<br><br>
 🔗 Find more on [**LinkedIn**](https://www.linkedin.com/in/angelopolito).
