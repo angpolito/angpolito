@@ -1,6 +1,6 @@
 <!-- Introduction Section -->
 <h1 align="center">Hello World! It's @angpolito👋🏻</h1>
-<h3 align="center">💼 EA Integration Developer Intern @ NTT DATA Italia | 🧑🏻‍💻 BSc Student in Computer Science</h3>
+<h3 align="center">💼 EA Integration Developer Intern @ NTT DATA Italia | 🧑🏻‍💻 BSc Graduate in Computer Science</h3>
 
 <!-- Social Links Section -->
 <p align="center">
@@ -17,8 +17,9 @@
 <!-- About Me Section -->
 ### 🔎 About Me
 
-- 🎓 **L-31 Student** at University of Bari Aldo Moro.
-- 🌱 Currently **writing my thesis** on LLM-based AI Agents operating as Recommender Systems.
+- 💼 **Integration Developer** Intern, assigned to the Integration Platforms service line, at NTT DATA Italia.
+- 🎓 **BSc Graduate in Computer Science [L-31]** from the University of Bari Aldo Moro.
+- 🌱 **Wrote a thesis** on LLM-based AI Agents operating as Recommender Systems.
 - 🎯 Always searching for **new adventures**: I've been a team leader in various university projects.
 - ⚡ In my **free time**, I love coding, reading tech articles, exploring dystopian literature and playing my guitar.<br><br>
 🔗 Find more on [**LinkedIn**](https://www.linkedin.com/in/angelopolito).
